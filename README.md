@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus
 - 👀 I’m interested in web-designer
-- 🌱 I’m currently learning Javascript , CSS and React 
+- 🌱 I’m currently learning Javascript  , CSS and React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
