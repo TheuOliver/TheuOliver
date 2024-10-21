@@ -11,7 +11,7 @@
      Análise e Desenvolvimento de Sistemas
      Universidade Salvador - UNIFACS
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: : Eu amo robôs
+- ⚡ Curiosidade: : Eu amo robôs e ficção cientifica
 
 <!---
 TheuOliver/TheuOliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
