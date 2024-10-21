@@ -10,8 +10,8 @@
 -  Formação:
      Análise e Desenvolvimento de Sistemas
      Universidade Salvador - UNIFACS
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: : I love robot
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: : Eu amo robôs
 
 <!---
 TheuOliver/TheuOliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
