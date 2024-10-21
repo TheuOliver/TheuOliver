@@ -1,7 +1,7 @@
 
 
 
-- 👋Olá!, I’m Matheus S. de Oliveira
+- 👋Olá!, Eu sou o Matheus S. de Oliveira
 -  I’m interested in web-designer
 -  Programação contínua sempre!
 -  I’m currently learning Javascript  , CSS and React 
