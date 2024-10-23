@@ -2,7 +2,7 @@
 
 
 - 👋Olá!, Eu sou o Matheus S. de Oliveira
--  Estou interessado em web designer
+-  Estou interessado em web designer e  analise de redes
 -  Programação contínua sempre!
 -  Atualmente estou aprendendo Javascript, CSS e React
 -  Buscando cada vez mais conhecimento!
